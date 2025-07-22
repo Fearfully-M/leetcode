@@ -22,15 +22,12 @@ LeetCode-Solutions/
 │       ├── README.md
 └── README.md
 
-f
+
 Main Directory: Contains subdirectories categorized by problem type (e.g., arrays, strings).
 
 
 
 Problem Subdirectories: Each includes:
-
-
-
 
 
 solution.py: The Python solution with comments explaining the logic, time/space complexity, and approach.
